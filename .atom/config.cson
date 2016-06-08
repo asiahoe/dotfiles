@@ -1,0 +1,49 @@
+cd"*":
+  autosave:
+    enabled: true
+  core:
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "wrap-guide"
+      "seti-icons"
+      "emmet"
+    ]
+    projectHome: "/Users/ahoe/Sites/"
+    themes: [
+      "native-ui"
+      "firefox-light-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro"
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "1340e31b-fce5-86e0-79d3-2fc5862a2f30"
+  "export-html":
+    lineNumber: {}
+  "file-icons":
+    coloured: false
+    forceShow: true
+    onChanges: true
+  "find-and-replace":
+    focusEditorAfterSearch: true
+    openProjectFindResultsInRightPane: true
+    scrollToResultOnLiveSearch: true
+  "fuzzy-finder": {}
+  "git-plus": {}
+  "markdown-pdf":
+    format: "Letter"
+  "markdown-preview":
+    breakOnSingleNewline: true
+    useGitHubStyle: true
+  "one-dark-ui": {}
+  "seti-ui":
+    compactView: true
+    themeColor: "Pink"
+  "svg-preview": {}
+  tabs: {}
+  "tree-view-filter": {}
+  welcome:
+    showOnStartup: false
