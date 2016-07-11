@@ -1,0 +1,13 @@
+color-picker@2.2.2
+file-icons@1.7.16
+language-jade@0.7.1
+language-svg@0.9.0
+markdown-pdf@1.5.0
+markdown-scroll-sync@2.1.2
+markdown-writer@2.4.0
+multi-cursor@2.1.3
+native-ui@0.18.3
+svg-preview@0.7.4
+svgo@2.1.2
+
+
