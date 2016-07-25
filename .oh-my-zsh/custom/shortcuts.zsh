@@ -1,7 +1,12 @@
+# Shorcuts to navigate quickly to folders in the Terminal.
+# Example: cd $personal
+
+# 2U
 blog=~/Sites/2U/ux-blog
-cask=~/Sites/2U/cask
-docs=~/Sites/2U/ux-docs
 harmony=~/Sites/2U/harmony
 themes=~/Sites/2U/harmony-themes
+
+# Personal
+dotfiles=~/Sites/dotfiles
 personal=~/Sites/Personal/
-viking=~/Sites/2U/viking
+portfolio=~/Sites/portfolio
