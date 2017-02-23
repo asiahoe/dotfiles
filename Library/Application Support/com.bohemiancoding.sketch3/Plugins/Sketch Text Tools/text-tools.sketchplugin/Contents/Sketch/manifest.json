@@ -1,0 +1,52 @@
+{
+  "name": "Text Tools",
+  "identifier": "io.shifted.text-tools",
+  "version": "0.1.1",
+  "description": "",
+  "author": "Henryk Wollik",
+  "authorEmail": "hwollik@hotmail.com",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "script": "create-font-metrics.cocoascript",
+      "handler": "createTextFontMetrics",
+      "name": "Create Font Metrics",
+      "identifier": "create-font-metrics"
+    },
+    {
+      "script": "create-baseline-layer.cocoascript",
+      "handler": "createBaselineLayer",
+      "name": "Create Baseline Layer",
+      "identifier": "create-baseline-layer"
+    },
+    {
+      "script": "align.cocoascript",
+      "handler": "alignText",
+      "name": "Align Text",
+      "identifier": "align-text"
+    },
+    {
+      "script": "count.cocoascript",
+      "handler": "count",
+      "name": "Count Characters Per Line",
+      "identifier": "count-characters"
+    },
+    {
+      "script": "columnize.cocoascript",
+      "handler": "columnize",
+      "name": "Columnize Text",
+      "identifier": "columnize-text"
+    }
+  ],
+  "menu": {
+    "items": [
+      "align-text",
+      "columnize-text",
+      "create-font-metrics",
+      "create-baseline-layer",
+      "count-characters"
+    ],
+    "title": "Text Tools"
+  }
+}
