@@ -42,3 +42,13 @@ These commands presume that I am currently in the dotfile directory.
 - Install your packages from a generated list in a specified directory.
 
   `apm install --packages-file .atom/packages.txt`
+
+### Terminal
+
+Copy the source directory to another directory.
+
+`cp -a Library/. ~/Library/`
+
+The `-a` is a recursive flag that preserves file attributes and symlinks. Otherwise, use `-r`.
+
+The `.` will copy all files and directories, including hidden ones, not inclusive of the parent directory.
