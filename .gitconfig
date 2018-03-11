@@ -1,3 +1,5 @@
 [user]
-	email = coding@asiahoe.com
 	name = Asia Hoe
+	email = coding@asiahoe.com
+[core]
+	editor = atom --wait
